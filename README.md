@@ -1,2 +1,2 @@
 # my_website
-it is for https://ccccccharles.qzz.io/
+it is for https://ccccccharles.dpdns.org/
